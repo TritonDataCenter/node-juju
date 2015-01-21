@@ -51,7 +51,7 @@ when installed, will emit the appropriate UDP messages relaying the executed com
 
 UDP messages are expected to be in the following format:
 
-   [command name] ([option name]=[option value])*
+    [command name] ([option name]=[option value])*
 
 For example:
 
