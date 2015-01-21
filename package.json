@@ -1,0 +1,8 @@
+{
+  "name"    : "node-juju",
+  "version" : "0.1.0",
+  "description" : "Adapter to Juju in nodejs land. Relays Juju events to a node process (via UDP).",
+  "scripts": {
+    "test": "NODE_PATH=./test node ./test/run.js"
+  }
+}
